@@ -1,4 +1,4 @@
-![image](https://github.com/pwirap/Final-Project-Task-Rakamin-x-Home-Credit-Data-Scientist/assets/99533745/1411e9c5-baeb-4a8a-b1f1-74a41977f732)# Final-Project-Task-Rakamin-x-Home-Credit-Data-Scientist
+# Final-Project-Task-Rakamin-x-Home-Credit-Data-Scientist
 Predicting customer late in making payment sUsing Machine Learning
 
 # Background and Objective
